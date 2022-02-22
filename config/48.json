@@ -1,0 +1,28 @@
+{
+  "dna": "5187a15a31b1b7ecc1acde924055a6458862b88b",
+  "name": "#48",
+  "description": "Collectible Crypto Bugs",
+  "image": "https://raw.githubusercontent.com/cryptobugnft/meta/main/img/48.png",
+  "edition": 48,
+  "date": 1642837545519,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "square_bubble"
+    },
+    {
+      "trait_type": "chest",
+      "value": "blue_spade"
+    },
+    {
+      "trait_type": "foot",
+      "value": "jacket"
+    },
+    {
+      "trait_type": "head",
+      "value": "little_curve"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "ipfs_image": "ipfs://QmekhJZi13iPNS6rGrpq25NP44Ttoc1yj9BDuwWuuLrD32/48.png"
+}
