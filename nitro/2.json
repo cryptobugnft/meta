@@ -1,0 +1,19 @@
+{
+    "description": "Nitro NFT Booster",
+    "image": "https://raw.githubusercontent.com/cryptobugnft/meta/main/nitro/2.webp",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "multiplier",
+            "value": "2"
+        },
+        {
+            "trait_type": "validity",
+            "value": "5 minutes"
+        },
+        {
+            "trait_type": "minted by",
+            "value": "CrudeOil"
+        }
+    ]
+}
